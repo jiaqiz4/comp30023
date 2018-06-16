@@ -1,0 +1,18 @@
+Sat Jun 16 22:19:36 2018
+client adress: 0.0.0.0
+file descriptor: 4
+message:PONG
+return:ERRO
+
+Sat Jun 16 22:21:05 2018
+client adress: 127.0.0.1
+file descriptor: 5
+message:OKAY
+eturn:ERRO
+
+Sat Jun 16 22:26:46 2018
+client adress: 127.0.0.1
+file descriptor: 6
+sent:WORK 1dffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 01
+return:SOLN 1dffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023f6c072
+
